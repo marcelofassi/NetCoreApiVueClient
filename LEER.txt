@@ -1,0 +1,12 @@
+https://anexsoft.com/netcore-api-vuejs-spa-configurando-nuestra-api-con-entity-framework
+
+
+Video 1: crear la api
+https://www.youtube.com/watch?v=24_OxOM9COs&feature=youtu.be
+
+Video 2: estructura general e index en vue
+https://www.youtube.com/watch?v=YCu1twmPK3k
+
+video 3: alta de un estudiante
+https://www.youtube.com/watch?v=zYa4E144lXU
+
