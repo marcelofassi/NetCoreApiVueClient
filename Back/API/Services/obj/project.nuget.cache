@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlIZFMAhezolDq+HnkfpX0DBw6jRJ29DlkXBoh9RcOwZwdLKGmOivhv3OjiwAiC/YqjAfkMTJTzweflO791UXQ==",
+  "dgSpecHash": "jOhBzc8hZKUfJKKMe5NoMMWeYvhBp+VLGdoWEfV+GAgPEj/LMK5+Rz6yGMvCaVhu4q/eeSR1sS3nS9USddvjNA==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\Services\\Services.csproj",
+  "projectFilePath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo.fassi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\marcelo.fassi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

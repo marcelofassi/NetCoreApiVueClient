@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkshjUG+U2bVme8TfSMPaQ+rODmcRWUtbo0KCJ+ZWT+iCIlhIszrwXIfJ5quIEAyijYIFGISMMNczhQVMwXu/w==",
+  "dgSpecHash": "gKcDUfVYMYlx6aaKOFs5otr4P1rCq5xGjsHtAzUl74564EpHSds9RhL89JN31G0h+aqToi3zPhG3VbvGVPQ9Pw==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\testing\\Testing.csproj",
+  "projectFilePath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\testing\\Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo.fassi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\marcelo.fassi\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

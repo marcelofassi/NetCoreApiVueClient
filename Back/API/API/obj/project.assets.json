@@ -9103,11 +9103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\API\\API.csproj",
+      "projectUniqueName": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\API\\API.csproj",
+      "projectPath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\marcelo.fassi\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\API\\obj\\",
+      "outputPath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9126,11 +9126,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\Persistence\\Persistence.csproj"
+            "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\Persistence\\Persistence.csproj"
             },
-            "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\Services\\Services.csproj": {
-              "projectPath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\Services\\Services.csproj"
+            "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\Services\\Services.csproj": {
+              "projectPath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\Services\\Services.csproj"
             }
           }
         }

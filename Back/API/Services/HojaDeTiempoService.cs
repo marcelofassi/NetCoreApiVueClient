@@ -96,9 +96,10 @@ namespace Services
         public IEnumerable<HojaDeTiempos> GetAll()
         {
             var result = new List<HojaDeTiempos>();
+            var context = new DiveriaTimesheetContext();
             try
             {
-                result = _timeSheetContext.HojaDeTiempos.ToList();
+                result = context.HojaDeTiempos.Take(10).ToList();
             }
             catch (Exception)
             {

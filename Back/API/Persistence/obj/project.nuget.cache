@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbtoCmHOviShHJf+NfCpYcdR6zVP2esaWLHcyNEP80U7bCDhIYYmQCg7Eu0HNwwRNF0c/XYo8KxHO2Laauun3A==",
+  "dgSpecHash": "cdYVxImKYC/Jw5z+8yciIfd34csULlAVJM7PozRsNbRbh8ye11wuWLblbF+uurJk0nVrbPTu3fJV2eIyFja13A==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Proyectos\\TimeSheetWeb\\Back\\API\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\Work\\Proyectos\\NetCoreApiVueClient\\Back\\API\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo.fassi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\marcelo.fassi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
