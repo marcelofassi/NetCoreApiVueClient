@@ -28,8 +28,8 @@ export default {
     };
   },
   created() {
-    let self = this;
-    self.getAll();
+    debugger
+    this.getAll();
   },
   methods: {
     getAll() {
